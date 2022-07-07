@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arewabolu
-- 👀 I’m interested in web development using GO
+- 👀 I’m interested in software development using GO
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me bolu.arewa@gmail.com
 
